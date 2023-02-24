@@ -19,7 +19,7 @@ By a psychiatrist.
   - [Religion & Pascal's mugging](https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/)
 
 
-#### [Gwern](https://gwern.net/)
+### [Gwern](https://gwern.net/)
 By an AI researcher. Content spans from technical to whimsical. Very distinct personal touch.
 - AI
   - [Machine learning urban legends](https://gwern.net/tank)
