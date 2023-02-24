@@ -1,7 +1,9 @@
 A collection of interesting reads
 
 
-# Sites
+# Blogs
+
+Most of these actually put out regular collections of interesting links, "what I'm reading now" and other reading recommendations which cover a healthy range of topics.
 
 ### [Astral Codex Ten (ACX)](https://astralcodexten.substack.com/about) | [Slate Star Codex](https://slatestarcodex.com)
 By a psychiatrist.
