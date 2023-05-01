@@ -57,7 +57,19 @@ By a consultant(?)
 - [Infrastructure](https://www.ribbonfarm.com/2010/03/07/an-infrastructure-pilgrimage/) / [Container shipping](https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/)
 - [Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/) - a theory about how organizations evolve
 
+### Misc
+- [brr.fyi](https://brr.fyi/) - physical infrastructure & daily life in Antarctica
+- [C2 wiki](https://wiki.c2.com) - a wiki site; my favourite article is [YouKnowYoureInaBigCompanyWhen](https://wiki.c2.com/?YouKnowYoureInaBigCompanyWhen)
+- [Lowering the Bar](https://www.loweringthebar.net/) - covering amusing developments in the legal world
+- [Ramen Adventures](https://ramenadventures.com/) - well-maintained blog reviewing ramen in Japan
+- [Spoon & Tamago](https://www.spoon-tamago.com/) - thoughtful & amusing coverage of the art & design scene in Japan
 
+### Comics
+- [xkcd](https://xkcd.com/) - comics for nerds
+  - [mobile site](https://m.xkcd.com)
+  - [explainxkcd](https://explainxkcd.com/) - *it's cause you're dumb*
+- [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/) - also for nerds, but more slapstick
+- [Wondermark](https://wondermark.com/) - comics assembled from 19th-century illustrations
 
 # One-shots
 
@@ -67,15 +79,20 @@ By a consultant(?)
 - [Instruments of Death](https://www.fanfiction.net/s/11685932/1/Instruments-of-Destruction) - short story about project management, set in _Star Wars_
 
 ### Nonfiction
-- [Google's Armageddon Clock (TrueTime)](https://sookocheff.com/post/time/truetime/)
 - [Mechanical watch](https://ciechanow.ski/mechanical-watch/)
 - [Madness in Antarctica](https://www.gq.com/story/insane-in-antarctica-excerpt)
 - [_String Theory_, essay on lifetimes of devotion](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace/)
 - [Kayaking down an endangered river](https://edition.cnn.com/interactive/2014/09/opinion/endangered-river-ctl/)
+- [Peter Zeihan, Ukraine War and the End of Russia](https://zeihan.com/a-ukraine-war-and-the-end-of-russia-repost/)
+- [DNSSEC root signing ceremony](https://www.cloudflare.com/dns/dnssec/root-signing-ceremony/)
+- [Ikejime](https://thejapanesefoodlab.com/ikejime/) - on slaughtering fish, sushi & rigor mortis
 
+### Programming
+- Epigrams in Programming, Alan Perlis - ([online version](https://www.cs.yale.edu/homes/perlis-alan/quotes.html) slightly misquotes [the original](https://www.gwern.net/docs/cs/1982-perlis.pdf))
+- [Google's Armageddon Clock (TrueTime)](https://sookocheff.com/post/time/truetime/)
+- [grugbrain.dev](https://grugbrain.dev/) - *"given choice between complexity or one on one against t-rex, grug take t-rex: at least grug see t-rex"*
 
-
-# Long hauls
+# Long hauls (so far, all fiction)
 - [Harry Potter and the Methods of Rationality](https://www.hpmor.com/)
 - [Unsong](https://unsongbook.com/)
 - [_There Is No Antimemetics Division_](https://scp-wiki.wikidot.com/antimemetics-division-hub)
@@ -87,3 +104,9 @@ By a consultant(?)
   - There's a wide range of topics but I enjoy the "effort" posts, where forum members contribute high-quality articles on niche topics of interest
   - Chemical plant design: [ideation](https://www.datasecretslox.com/index.php/topic,1357.0.html) / [pipes](https://www.datasecretslox.com/index.php/topic,1732.msg44487.html#msg44487) / [storage vessels](https://www.datasecretslox.com/index.php/topic,2103.msg56309/topicseen.html#msg56309)
   - [Effortpost archives](https://www.datasecretslox.com/index.php/topic,662.0.html)
+
+
+# Toys and tools
+- [Scribble Diffusion](https://scribblediffusion.com/)
+- [Visual RabbitMQ simulator](http://tryrabbitmq.com/)
+- 
