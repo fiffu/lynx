@@ -18,7 +18,6 @@ By a psychiatrist.
   - [Death in hospitals](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
   - [Religion & Pascal's mugging](https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/)
 
-
 ### [Gwern](https://gwern.net/)
 By an AI researcher. Content spans from technical to whimsical. Very distinct personal touch.
 - AI
@@ -39,7 +38,6 @@ By an entrepreneur and ex-Stripe
 - [3D printer market, monetization, supply chain](https://www.bitsaboutmoney.com/archive/payments-and-plastic-in-the-fantasy-supply-chain/)
 - Vouchers & gift cards: [how it works](https://www.bitsaboutmoney.com/archive/more-than-you-want-to-know-about-gift-cards/) / [black market](https://www.bitsaboutmoney.com/archive/gift-card-marketplaces/)
 - [Business model of credit cards](https://www.bitsaboutmoney.com/archive/how-credit-cards-make-money/)
-
 
 ### [ACOUP](https://acoup.blog/resources-for-world-builders/) (history)
 By a professor of history. Deep dives into history, hot takes on pop culture historical representations.
@@ -71,6 +69,7 @@ By a consultant(?)
 - [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/) - also for nerds, but more slapstick
 - [Wondermark](https://wondermark.com/) - comics assembled from 19th-century illustrations
 
+
 # One-shots
 
 ### Fiction
@@ -97,7 +96,6 @@ By a consultant(?)
 - [Unsong](https://unsongbook.com/)
 - [_There Is No Antimemetics Division_](https://scp-wiki.wikidot.com/antimemetics-division-hub)
 
-
 # Aggregations
 - [HackerNews newsletter](https://hackernewsletter.com/)
 - Data Secrets Lox, an ACX-adjacent forum
@@ -105,8 +103,6 @@ By a consultant(?)
   - Chemical plant design: [ideation](https://www.datasecretslox.com/index.php/topic,1357.0.html) / [pipes](https://www.datasecretslox.com/index.php/topic,1732.msg44487.html#msg44487) / [storage vessels](https://www.datasecretslox.com/index.php/topic,2103.msg56309/topicseen.html#msg56309)
   - [Effortpost archives](https://www.datasecretslox.com/index.php/topic,662.0.html)
 
-
 # Toys and tools
 - [Scribble Diffusion](https://scribblediffusion.com/)
 - [Visual RabbitMQ simulator](http://tryrabbitmq.com/)
-- 
