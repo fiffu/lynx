@@ -85,6 +85,7 @@ By a consultant(?)
 - [Peter Zeihan, Ukraine War and the End of Russia](https://zeihan.com/a-ukraine-war-and-the-end-of-russia-repost/)
 - [DNSSEC root signing ceremony](https://www.cloudflare.com/dns/dnssec/root-signing-ceremony/)
 - [Ikejime](https://thejapanesefoodlab.com/ikejime/) - on slaughtering fish, sushi & rigor mortis
+- [How platforms die](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) - rent-seeking by aggregation platforms like Facebook & TikTok
 
 ### Programming
 - Epigrams in Programming, Alan Perlis - ([online version](https://www.cs.yale.edu/homes/perlis-alan/quotes.html) slightly misquotes [the original](https://www.gwern.net/docs/cs/1982-perlis.pdf))
