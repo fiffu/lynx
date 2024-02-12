@@ -88,14 +88,19 @@ By a consultant(?)
 - [How platforms die](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) - rent-seeking by aggregation platforms like Facebook & TikTok
 
 ### Programming
+
 - Epigrams in Programming, Alan Perlis - ([online version](https://www.cs.yale.edu/homes/perlis-alan/quotes.html) slightly misquotes [the original](https://www.gwern.net/docs/cs/1982-perlis.pdf))
 - [Google's Armageddon Clock (TrueTime)](https://sookocheff.com/post/time/truetime/)
 - [grugbrain.dev](https://grugbrain.dev/) - *"given choice between complexity or one on one against t-rex, grug take t-rex: at least grug see t-rex"*
+- [Crossovers](https://www.hillelwayne.com/post/are-we-really-engineers/) - what can software engineers learn from/teach engineers in other fields?
+- [Normalization of deviance](https://danluu.com/wat/) - Bad engineering habits, compared to operational interventions in the healthcare industry
 
-# Long hauls (so far, all fiction)
+# Long hauls
 - [Harry Potter and the Methods of Rationality](https://www.hpmor.com/)
 - [Unsong](https://unsongbook.com/)
 - [_There Is No Antimemetics Division_](https://scp-wiki.wikidot.com/antimemetics-division-hub)
+- [Playing to Win](https://www.sirlin.net/ptw) - on doing what it takes to win
+  - Related: [95%-ile isn't that good](https://danluu.com/p95-skill/)
 
 # Aggregations
 - [HackerNews newsletter](https://hackernewsletter.com/)
